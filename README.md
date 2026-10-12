@@ -51,6 +51,6 @@ ship production-grade software.
 - Hindi (8-level certified), Tamil (native), English (professional)
 
 ## Connect
-- Email: avinashtech18@gmail.com
+- Email: avinashtech.18@gmail.com
 - LinkedIn: https://www.linkedin.com/in/avinash-a-576baa330
 - GitHub: https://github.com/avinashtech18
